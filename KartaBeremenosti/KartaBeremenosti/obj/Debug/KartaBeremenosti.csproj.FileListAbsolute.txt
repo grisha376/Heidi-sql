@@ -1,0 +1,60 @@
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.Form1.resources
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.Properties.Resources.resources
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.GenerateResource.cache
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.CoreCompileInputs.cache
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.exe.config
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.exe
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.pdb
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.exe
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.pdb
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csprojAssemblyReference.cache
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\MySql.Data.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Buffers.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Memory.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.pdb
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\MySql.Data.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Buffers.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Memory.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Medhelp2\Desktop\Карта беременности\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.CopyComplete
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.exe.config
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.exe
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\KartaBeremenosti.pdb
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\MySql.Data.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Buffers.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Memory.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.pdb
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\Google.Protobuf.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\MySql.Data.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Buffers.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Memory.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.Form1.resources
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.Properties.Resources.resources
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.GenerateResource.cache
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.csproj.CopyComplete
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.exe
+C:\Users\Григорий\Desktop\Шарага\KartaBeremenosti\KartaBeremenosti\obj\Debug\KartaBeremenosti.pdb
